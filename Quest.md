@@ -162,6 +162,7 @@ ex) 어제는 몇시간 자셨나요???
 선택한 이유 - 한 주 동안 같이 했던 동료들과 팔로우를 하고 싶습니다.
 
 <img width="300" alt="스크린샷 2024-07-26 오후 12 59 23" src="https://github.com/user-attachments/assets/f6242d79-0442-4167-8618-6a84320e053d">
+<img width="300" alt="스크린샷 2024-07-26 오후 1 04 06" src="https://github.com/user-attachments/assets/660e3a83-2dbf-4710-bb7a-2bf6a8d5cf55">
 
 
 ### 기태
