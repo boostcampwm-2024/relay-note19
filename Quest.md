@@ -115,6 +115,9 @@ ex) 어제는 몇시간 자셨나요???
 
 복수 전공을 해서 그런지 개발자 지인을 만들고 싶어요
 
+![image](https://github.com/user-attachments/assets/cbfb1b2a-b173-4478-a64a-a654602f1138)
+
+
 ### 민하
 
 하기 싫은것
