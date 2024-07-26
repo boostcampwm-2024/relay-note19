@@ -178,3 +178,8 @@ ex) 어제는 몇시간 자셨나요???
 - 캠퍼들에게 하고 싶은 얘기를 추가해서 공유한다.
 
 선택 이유 - 음악을 좋아해서 선택했습니다
+
+![사진](https://github.com/user-attachments/assets/74c10660-9f34-4071-85b1-cdd04e66d97e)
+
+![스크린샷 2024-07-25 191909](https://github.com/user-attachments/assets/6eaa96b9-1810-4841-b175-72d7446cb279)
+
