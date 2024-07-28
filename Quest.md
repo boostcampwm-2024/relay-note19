@@ -264,5 +264,8 @@ ex) 어제는 몇시간 자셨나요???
 ### J061\_김주호
 
 ### J092\_문용균
+- <img width="542" alt="uptime2" src="https://github.com/user-attachments/assets/83733e07-2a4b-4897-bf91-8fd09ed845c5">
+- <img width="595" alt="uptime1" src="https://github.com/user-attachments/assets/d8057dbd-6f31-4d68-92a2-95dca31c542c">
+- 오랫동안 sleep만 반복했던 컴퓨터를 재부팅해주었습니다.
 
 ### J200\_이진우
