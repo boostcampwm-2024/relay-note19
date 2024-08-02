@@ -304,6 +304,10 @@ ex) 어제는 몇시간 자셨나요???
 - 시간이 된다면, 퀘스트를 어떻게 개선하면 좋을지도 작성해보세요.
 
 ### J012\_공명규
+- Week3 팀 20 단체사진 찍기
+![image](https://github.com/user-attachments/assets/dd677882-8cbd-4f45-bd09-9d29f0970d60)
+![image](https://github.com/user-attachments/assets/a70ad631-d602-47c7-9b68-238d422e6fc1)
+
 
 ### K032\_신태환
 팔로우 완료했습니다!
