@@ -262,6 +262,11 @@ ex) 어제는 몇시간 자셨나요???
 ### S035\_송영훈
 
 ### J061\_김주호
+#### 240729
+![image](https://github.com/user-attachments/assets/8e5a607d-3bdf-48d9-816d-68b238aa858a)
+
+#### 240730
+![image](https://github.com/user-attachments/assets/ceab6a2b-69f4-43ec-b0cf-06f889e81816)
 
 ### J092\_문용균
 - <img width="595" alt="uptime1" src="https://github.com/user-attachments/assets/d8057dbd-6f31-4d68-92a2-95dca31c542c">
