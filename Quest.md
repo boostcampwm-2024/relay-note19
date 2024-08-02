@@ -311,6 +311,10 @@ ex) 어제는 몇시간 자셨나요???
 
 ### S035\_송영훈
 
+<img width="546" alt="스크린샷 2024-08-02 오후 2 07 23" src="https://github.com/user-attachments/assets/ebfcdbaf-9b8c-4d19-b2d4-f1b7cefd54b1">
+
+
+
 ### J061\_김주호
 
 #### 240729
