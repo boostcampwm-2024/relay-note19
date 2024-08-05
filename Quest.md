@@ -542,5 +542,7 @@ ex) 어제는 몇시간 자셨나요???
 
 선정 이유: 재밌어보여서
 
+![image](https://github.com/user-attachments/assets/3dc420a2-713a-4594-bdd7-20567da15832)
+
 </div>
 </details>
